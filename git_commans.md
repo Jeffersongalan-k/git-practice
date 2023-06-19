@@ -4,7 +4,7 @@ git status: Este comando se usa para obtener el estado actual del repositorio
 
 git clone: este comando se utiliza para clonar un repositorio en un nuevo proyecto 
 
-git pull: este comando es muy importante, ya que es la forma de enviar las versiones que vas realizando en el proceso al repositorio local: 
+git pull: este comando es muy importante, ya que es la forma de enviar las versiones que vas realizando en el proceso al repositorio local: gi
 
 git checkout: este comando permite navegar entre las ramas creadas  por ( git branch)
 
